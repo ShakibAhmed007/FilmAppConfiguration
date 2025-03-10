@@ -3,7 +3,6 @@ spring.datasource.platform=postgres
 spring.datasource.url=jdbc:postgresql://localhost:5432/film
 spring.datasource.username=postgres
 spring.datasource.password=admin
-spring.jpa.database-platform=org.hibernate.dialect.PostgreSQL82Dialect
 
 spring.jpa.properties.hibernate.show_sql=true
 spring.jpa.properties.hibernate.format_sql=true
